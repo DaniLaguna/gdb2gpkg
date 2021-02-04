@@ -5,3 +5,5 @@ The main action use the accepted answer to [this question](https://gis.stackexch
 
 The idea is to have a friendly user interface in order to specify the source geodatabase and the destination geopackage filename.
 Once selected, click the "Go" button and wait for the feature classes to be copied.
+
+[Plugin dialog]: https://github.com/DaniLaguna/gdb2gpkg/blob/main/docs/dialog.png "Plugin dialog"
