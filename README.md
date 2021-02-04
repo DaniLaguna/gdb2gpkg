@@ -1,4 +1,4 @@
-# gdb2gpkg
+# gdb2gpkg (Geodatabase to Geopackage)
 Plugin for QGIS that copy all feature classes from a geodatabase to an empty geopackage
 
 The main action use the accepted answer to [this question](https://gis.stackexchange.com/questions/372385/converting-an-esri-gdb-to-gpkg-using-pyqgis).
