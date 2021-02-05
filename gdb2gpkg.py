@@ -273,6 +273,7 @@ class Geodatabase2Geopackage:
 
         # show the dialog
         self.dlg.show()
+        self.dlg.setFixedSize(self.dlg.size());
         # Run the dialog event loop
         result = self.dlg.exec_()
         # See if OK was pressed
